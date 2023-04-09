@@ -77,9 +77,9 @@ with st.expander("PROJECT DETAILS"):
     st.write('KN --> K-Neighbours')
 
 with st.expander('EXAMPLE PHISHING URLs:'):
-    st.write('_https://rtyu38.godaddysites.com/_')
-    st.write('_https://karafuru.invite-mint.com/_')
-    st.write('_https://defi-ned.top/h5/#/_')
+    st.write('_https://bir365.com/_')
+ 
+   
     st.caption('REMEMBER, PHISHING WEB PAGES HAVE SHORT LIFECYCLE! SO, THE EXAMPLES MAY NOT WORK NEED TO SEE THE UPDATED ONE')
 
 choice = st.selectbox("Please select your machine learning model",
