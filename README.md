@@ -1,4 +1,4 @@
-# Phishing-url-detection
+# Phishing-Website-detection
 Project related to machine learning to detect phishing detection
 
 
